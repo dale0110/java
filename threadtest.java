@@ -42,8 +42,9 @@ class ThreadDemo
 		
 		for(int i=0;i<100;i++)
 		{
-			Thread nt=new Thread(tt);
-			nt.start();
+			new Thread(tt).start();
+			//Thread nt=new Thread(tt);
+			//nt.start();
 		}
 		
 		for(int i=1000; i<2000; i++)
