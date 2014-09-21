@@ -21,7 +21,7 @@ class stack
 
 class MyTestThreaed implements Runnable
 {
-	private static int  counter=1000;
+	private  int  counter=1000;
 	//int  counter=10000;
 	public void run()
 	{
