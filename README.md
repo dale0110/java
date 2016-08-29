@@ -232,3 +232,5 @@ rac数据库负载均衡功能测试
 
 
 链接：http://pan.baidu.com/s/1qXrJ4LY 密码：x4jv
+
+http://www.cs.umd.edu/~ayewah/web/pubs/Google-ISSTA2010.pdf
