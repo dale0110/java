@@ -21,3 +21,9 @@ http://www.vultr.com/?ref=6982052-3B
   
   
 R7000路由器刷了梅林，参照这个教程装 https://www.chiphell.com/thread-1364921-1-1.html 
+
+创建一个个人网站
+1.提供nginx反向代理google服务
+ https://eason-yang.com/2016/08/06/use-nginx-to-proxy-google-fonts/
+2.本地中文wiki服务
+3.本地英文wiki服务
