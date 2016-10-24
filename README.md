@@ -27,3 +27,6 @@ R7000路由器刷了梅林，参照这个教程装 https://www.chiphell.com/thre
  https://eason-yang.com/2016/08/06/use-nginx-to-proxy-google-fonts/
 2.本地中文wiki服务
 3.本地英文wiki服务
+
+机器学习地址
+http://www-staff.it.uts.edu.au/~ydxu/statistics.htm
