@@ -30,3 +30,6 @@ R7000路由器刷了梅林，参照这个教程装 https://www.chiphell.com/thre
 
 机器学习地址
 http://www-staff.it.uts.edu.au/~ydxu/statistics.htm
+
+
+http://pan.baidu.com/wap/share/h ... 4683212&start=0
