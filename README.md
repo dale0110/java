@@ -48,3 +48,4 @@ http://www.hi-pda.com/forum/viewthread.php?tid=1968620&extra=page%3D1
  
  淘宝技术架构
 
+http://www.open-open.com/doc/view/6b6a02b7a9f7403fb9320b56878eccf2
