@@ -38,6 +38,47 @@ http://pan.baidu.com/s/1jH9UJ3K 密码：m0f5
 
 链接：http://pan.baidu.com/s/1nvk1WIt 密码：5y83
 
+
+
+登录命令行工具
+psql -U postgres
+
+创建用户
+create user ecp with password 'ecp';
+
+创建数据库
+create database ecp owner ecp;
+
+查看数据库
+postgres=# \l
+                                                        数据库列表
+   名称 | 拥有者 | 字元编码 | 校对规则 | Ctype | 存取权限
+-----------+----------+----------+--------------------------------+--------------------------------+-----------------------
+ postgres | postgres | UTF8 | Chinese (Simplified)_China.936 | Chinese (Simplified)_China.936 |
+ template0 | postgres | UTF8 | Chinese (Simplified)_China.936 | Chinese (Simplified)_China.936 | =c/postgres +
+           | | | | | postgres=CTc/postgres
+ template1 | postgres | UTF8 | Chinese (Simplified)_China.936 | Chinese (Simplified)_China.936 | =c/postgres +
+           | | | | | postgres=CTc/postgres
+(3 行记录)
+
+更改数据库权限
+grant all privileges on database ecp to ecp;
+
+删除数据库：
+DROP DATABASE ecp;
+postgres=# DROP DATABASE ecp;
+DROP DATABASE
+
+通过sql文件重建数据库
+psql -d ecp -U postgres < ecp.sql
+
+数据库恢复工具：
+pg_restore -U postgres -d ecp < postgresql_20141104.backup
+
+
+
+ 
+
 http://www.hi-pda.com/forum/viewthread.php?tid=1968620&extra=page%3D1
 
  https://item.taobao.com/item.htm ... 42.7.jUavRl&amp;id=533092363261
