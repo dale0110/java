@@ -109,3 +109,6 @@ http://zengestudy.blog.51cto.com/1702365/1786555
 http://pan.baidu.com/s/1sw997
 
 http://pan.baidu.com/share/link?shareid=230453&uk=587538758
+
+
+https://www.exploit-db.com/exploits/42295/?rss&utm_source=dlvr.it&utm_medium=twitter
